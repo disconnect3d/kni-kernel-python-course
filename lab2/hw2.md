@@ -5,7 +5,7 @@
 2. Napisz funkcję, która policzy iloczyn elementów w podanej liście.
 
 3. Zaimplementuj grę w wisielca bazując na poniższym kodzie (zmień miejsca zawierające komentarze TODO / FIXME).
-```
+```python
 max_guesses = 9
 lives = max_guesses
 secret_word = 'pythoniczny kod'
@@ -52,7 +52,7 @@ def play():
 
 
 play()
-```python
+```
 
 * rozszerz grę tak, żeby wielkość liter podanych przez użytkownika nie miała znaczenia (hint: metoda `lower()` na stringu)
 
