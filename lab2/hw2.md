@@ -104,6 +104,7 @@
     Wygrales! Slowo to: pythoniczny kod
     Udalo ci sie tego dokonac w 2 probach!
     ```
+    * napraw bug podający złą ilość prób (tak naprawdę gracz stracił 2 życia, a nie dokonał 2 próby)
     
     * rozszerz grę tak, żeby wielkość liter podanych przez użytkownika nie miała znaczenia (hint: metoda `lower()` na stringu)
     
