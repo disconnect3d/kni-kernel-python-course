@@ -2,7 +2,7 @@
 
 <h1 align="center">Warsztat 1 <a href="../lab2/lab2.md"> >> </a></h1>
 
-Prezentacje z zajęć można znaleźć <a href="pdfs/intro.pdf">tutaj</a>.
+Prezentacje z zajęć można znaleźć <a href="../pdfs/intro.pdf">tutaj</a>.
 
 Instalacja Pythona pod [Windows](https://www.python.org/downloads/ "Python downloads"), dla Debiana/Ubuntu `sudo apt-get install python3`
 
