@@ -23,6 +23,5 @@
     * funkcja sprawdzająca, czy któryś z graczy wygrał grę
 
   * dodatkowo: napisz drugą wersję gry, w której jednym z graczy jest komputer wykonujący losowy ruch (należy wykorzystać funkcję z modułu `random`)
-  * dodatkowo: gracz sterowany przez komputer wykonujący możliwie najlepszy dla niego ruch (wbrew pozorom nie jest to takie trudne)
 
   Ważna uwaga: uczymy się pisać kod po angielsku, który będzie łatwy do zrozumienia dla postronnych.
