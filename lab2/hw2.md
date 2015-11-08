@@ -114,4 +114,6 @@
 
 
 
+Rozwiązanie bez powyższych punktów można znaleźć [tutaj](hangman.py). Ciekawostka: słowo kluczowe `global` jest wymagane tylko w jednym miejscu.
+
 4. Zaimplementuj [szyfr cezara](https://pl.wikipedia.org/wiki/Szyfr_Cezara).
