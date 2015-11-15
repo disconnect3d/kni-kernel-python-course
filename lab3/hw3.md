@@ -12,8 +12,7 @@
 
   * napisz skrypt `main.py`, który zaimportuje funkcję `play` z gry wisielca z poprzedniego warsztatu - następnie zrób tak, żeby skrypt wisielca wywoływał funkcję `play` tylko wtedy, gdy jest włączany bezpośrednio ([przykład](https://docs.python.org/3/tutorial/modules.html#executing-modules-as-scripts))
 
-
-2. Napisz grę w kółko i krzyżyk dla dwóch graczy
+3. Napisz grę w kółko i krzyżyk dla dwóch graczy
 
   * planszą powinna być lista list (np. `board = [[' ', ' ', ' '], [' ', ' ', ' '], [' ', ' ', ' ']]`)
   * w kodzie powinny znaleźć się takie funkcje jak:
@@ -25,3 +24,4 @@
   * dodatkowo: napisz drugą wersję gry, w której jednym z graczy jest komputer wykonujący losowy ruch (należy wykorzystać funkcję z modułu `random`)
 
   Ważna uwaga: uczymy się pisać kod po angielsku, który będzie łatwy do zrozumienia dla postronnych.
+
