@@ -1,6 +1,6 @@
 <h1 align="center"><a href="../lab3/lab3.md"> << </a>Warsztat 5</h1>
 
-Na zajęciach rozwiązywaliśmy jedno z zadań typu crackme/hackme ze strony www.pwnable.kr (większość zadań stamtąd wymaga wiedzy z C/różnych niskopoziomowych rzeczy, stąd chyba nie ma sensu, żebyście się tam rejestrowali; chyba, że chcecie się pobawić (; ).
+Na zajęciach rozwiązywaliśmy jedno z zadań typu crackme/hackme ze strony www.pwnable.kr (większość zadań stamtąd wymaga wiedzy z C/różnych niskopoziomowych rzeczy).
 
 Zadanie polega na rozwiązaniu zagadki serwowanej nam przez serwer znajdujący się na pwnable.kr:9007.
 
