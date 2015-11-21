@@ -7,3 +7,7 @@ Prowadzący: Dominik Czarnota, Aleksander Kawala
 * [Warsztat 2](lab2/lab2.md) - [zadanie domowe](lab2/hw2.md)
 
 * [Warsztat 3](lab3/lab3.md) - [zadanie domowe](lab3/hw3.md)
+
+* Warsztat 4 - nie ma skryptu... były m.in. klasy
+
+* [Warsztat 5](lab5/lab5.md)
