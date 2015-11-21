@@ -95,7 +95,7 @@ for i in gen():
 
 Dokończyć skrypt tak, żeby przeszedł zagadkę z pwnable.kr.
 
-UWAGA: Prawdopodobnie gdy skrypt włączymy lokalnie, to z uwagi na czas połączenia z serwerem pwnable.kr nie będzie on w stanie wygrać 100 gier w ciągu 30 sekund. Domyślnie, w zadaniu na pwnable.kr było napisane, żeby ewentualnie włączyć skrypt z serwera (inne zadania wymagają logowanie się na niego przez ssh).
+UWAGA: Prawdopodobnie gdy skrypt włączymy lokalnie, to z uwagi na czas połączenia z serwerem pwnable.kr nie będzie on w stanie wygrać 100 gier w ciągu 30 sekund. W zadaniu na pwnable.kr jest napisane, żeby ewentualnie włączyć skrypt z serwera (inne zadania wymagają logowanie się na niego przez ssh, więc bawiąc się tam, mamy do niego dostęp).
 
 Jeśli ktoś chce włączyć skrypt z poziomu pwnable.kr, to niech do mnie napisze.
 
