@@ -1,6 +1,6 @@
 ## Zadania domowe do spotkania nr 3
 
-0. Jeśli nie zrobiliśmy zadań z warsztatu 2, to wracamy je zrobić ;p.
+0. Jeśli nie zrobiliśmy [zadań z warsztatu 2](../lab2/hw2.md), to wracamy je zrobić ;p.
 
 1. Problem odpalania funkcji z skryptu, gdy jest on importowany.
 
