@@ -1,6 +1,6 @@
 <img src="http://starecat.com/content/wp-content/uploads/programming-languages-as-guns-assembler-c-cpp-python.jpg" height="400px"/>
 
-<h1 align="center"><a href="../lab1/lab1.md"> << </a>Warsztat 2</h1>
+<h1 align="center"><a href="../lab1/lab1.md"> << </a>Warsztat 2<a href="../lab3/lab3.md"> >> </a></h1>
 ## Pomoc w konsoli
 W konsolę pythona wbudowane są dwie bardzo pomocne funkcje: `dir` oraz `help`:
 ```python
