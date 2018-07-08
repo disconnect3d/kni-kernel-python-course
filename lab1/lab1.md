@@ -15,7 +15,8 @@ Instalacja Pythona pod [Windows](https://www.python.org/downloads/ "Python downl
 ```python
 calkowita = 7
 rzeczywista = 7.5
-rzeczywista = float(38)
+rzeczywista = float(38)  # tworzenie liczby rzeczywistej z liczby calkowitej
+rzeczywista = float('38')  # tworzenie liczby rzeczywistej z napisu
 napis = 'witaj'
 napis = "witaj"
 napis = "Nie martw sie o 'pojedyncze' cudzyslowy."
@@ -50,9 +51,12 @@ def square(x):
 ```
 Wywołanie `square(5)` zwróci 25.
 
-Dobre nawyki: Funkcje powinny mieć jedną odpowiedzialność, robić jedną rzecz, robić ją dobrze i obsługiwać wszystkie przypadki (w miarę możliwości). Funkcje pozwalają też nazwać kawałek kodu, nazwa powinna być odczasownikowa i opisywać to co funkcja robi. Złe nazwy: `x85`, `abc`, `qwerty`. Dobre nazwy: `cutFirstElement`, `removeEverything`, `ReadPropertiesFromFile`.
-#Instrukcje sterujące
-###Pętle
+Dobre nawyki: Funkcje powinny mieć jedną odpowiedzialność, robić jedną rzecz, robić ją dobrze i obsługiwać wszystkie przypadki (w miarę możliwości). Funkcje pozwalają też nazwać kawałek kodu, nazwa powinna być odczasownikowa i opisywać to co funkcja robi. Złe nazwy: `a`, `x85`, `abc`, `qwerty`. Dobre nazwy: `cut_first_element`, `remove_everything`, `read_properties_from_file`.
+
+# Instrukcje sterujące
+
+### Pętle
+
 `for` służy do iterowania po kolekcji, jako kolekcję rozumiemy **Listy**, **Krotki**, **Słowniki**, **Generatory** (O tym później).
 
 Wbudowana funkcja `range` zwraca kolekcję zawierającą kolejne liczby.
@@ -85,6 +89,8 @@ while i>0:
     i -= 1
 ```
 Wypisze 5, 4, 3, 2, 1
+
+
 ### Instrukcje warunkowe
 Jeśli musimy zdecydować co ma się wykonać na podstawie jakiegoś warunku używamy instrukcji `if`.
 ```python
