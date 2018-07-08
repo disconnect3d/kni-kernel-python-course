@@ -1,12 +1,13 @@
 <img src="http://starecat.com/content/wp-content/uploads/programming-languages-as-guns-assembler-c-cpp-python.jpg" height="400px"/>
 
 <h1 align="center"><a href="../lab1/lab1.md"> << </a>Warsztat 2<a href="../lab3/lab3.md"> >> </a></h1>
+
 ## Pomoc w konsoli
 W konsolę pythona wbudowane są dwie bardzo pomocne funkcje: `dir` oraz `help`:
 ```python
 a = [1,2,3]
 dir(a)          # Wypisuje metody obiektu
-help(a.append)  # Wyświetla tzw. 'docstring', czyli dokumentację
+help(a.append)  # Wyświetla tzw. 'docstring', czyli dokumentację do danej rzeczy (tu metody `append` obiektu listy `a`)
 ```
 Pozwala to dowiedzieć się co można zrobić np. z listą.
 Rzeczy zaczynające się od `__` (np. `__add__`) przeważnie nas nie interesują, są to wewnętrzne mechanizmy.
