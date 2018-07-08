@@ -37,6 +37,9 @@ Zaczęliśmy pisać skrypt takiego bota - `solver.py` (wykorzystuje moduł [`soc
 #!/usr/bin/env python
 
 import socket
+
+# tworzymy gniazdo sieciowe `s`, którym będziemy mogli wysyłać i odbierać pakiety
+# (AF_INET oraz SOCK_STREAM to stałe które są potrzebne, żeby gniazdo wykorzystywało protokół TCP/IP)
 s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 
 host = 'pwnable.kr'
